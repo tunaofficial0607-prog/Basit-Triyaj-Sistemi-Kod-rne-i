@@ -1,2 +1,2 @@
 # Basit-Triyaj-Sistemi-Kod-rne-i
-Test
+Son derece basit bir projedir. Gerçek hastane sistemlerinde kullanılmamalıdır.
